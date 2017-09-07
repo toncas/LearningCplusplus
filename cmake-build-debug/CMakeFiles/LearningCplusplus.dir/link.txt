@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/LearningCplusplus.dir/main.cpp.o  -o LearningCplusplus.exe -Wl,--out-implib,libLearningCplusplus.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
